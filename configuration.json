@@ -10,14 +10,14 @@
       "ip": "10.144.208.32",
       "user": "root",
       "pwd": "toto32**",
-      "nb_vesx": 3,
+      "nb_vesx": 4,
       "datastore_for_vesxi": "datastore1"
     },
     {
       "ip": "10.144.208.31",
       "user": "root",
       "pwd": "toto32**",
-      "nb_vesx": 3,
+      "nb_vesx": 4,
       "datastore_for_vesxi": "datastore1"
     }
   ],
@@ -33,7 +33,7 @@
     "user_basename": "adminDC",
     "dhcp_mac_addr": "00:50:56:a1:02:",
     "dhcp_max_addr": 10,
-    "nb_vesx_datacenter": 3,
+    "nb_vesx_datacenter": 4,
     "vsan": "true",
     "always_datastore": "true",
     "datastore_size_values": "smallest or largest",
